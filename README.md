@@ -1,6 +1,6 @@
 # -3d_brain_tissue_segmentation
  3D Brain tissue segmentation
-Multiple parts of code were copied from https://www.kaggle.com/code/aileenliunew3/final-version-of-bme-dept-project#kln-184
+Multiple parts of code were copied from https://www.kaggle.com/code/aileenliunew3/final-version-of-bme-dept-project#kln-184 (under https://www.apache.org/licenses/LICENSE-2.0 license)
 
 Kaggle dataset: https://www.kaggle.com/datasets/soroush361/3dbraintissuesegmentation
 
